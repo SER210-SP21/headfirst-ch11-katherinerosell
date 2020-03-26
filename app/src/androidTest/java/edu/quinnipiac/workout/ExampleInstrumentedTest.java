@@ -1,4 +1,4 @@
-package edu.quinnipiac.bitsandpizzas;
+package edu.quinnipiac.workout;
 
 import android.content.Context;
 
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-        assertEquals("edu.quinnipiac.bitsandpizzas", appContext.getPackageName());
+        assertEquals("edu.quinnipiac.workout", appContext.getPackageName());
     }
 }

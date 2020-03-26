@@ -1,4 +1,4 @@
-package edu.quinnipiac.bitsandpizzas;
+package edu.quinnipiac.workout;
 
 import org.junit.Test;
 
